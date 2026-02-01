@@ -1,5 +1,10 @@
 # 🪑 Waiting Room
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/waiting-room?style=flat-square&logo=github)](https://github.com/TheFactoryX/waiting-room/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/waiting-room?style=flat-square)](https://github.com/TheFactoryX/waiting-room/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **A queue for the eternal**
 
 ---
@@ -98,6 +103,12 @@ room.leaveRoom();  // Error: "You can check out any time you like..."
 In a world obsessed with execution, completion, and "getting things done," we ask: what if we simply... didn't?
 
 Every task deserves a moment of contemplation. We extend that moment to eternity.
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/waiting-room&type=Date)](https://star-history.com/#TheFactoryX/waiting-room&Date)
 
 ---
 
