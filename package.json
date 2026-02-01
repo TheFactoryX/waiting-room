@@ -1,0 +1,31 @@
+{
+  "name": "waiting-room",
+  "version": "1.0.0",
+  "description": "A queue for processes that never execute. Eternal standby.",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'Please wait...' && sleep infinity",
+    "test": "echo 'Tests queued. Please wait...'",
+    "execute": "echo 'Execution scheduled for: eventually'"
+  },
+  "keywords": [
+    "queue",
+    "waiting",
+    "eternal",
+    "procrastination",
+    "zen",
+    "noop",
+    "standby",
+    "patience"
+  ],
+  "author": "TheFactoryX",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheFactoryX/waiting-room.git"
+  },
+  "homepage": "https://github.com/TheFactoryX/waiting-room#readme",
+  "bugs": {
+    "url": "https://github.com/TheFactoryX/waiting-room/issues"
+  }
+}
