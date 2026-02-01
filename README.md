@@ -133,9 +133,13 @@ A: Why not? Have a seat. We'll call your number.
 3. Keep waiting
 4. That's it. That's contributing.
 
-## License
+## Anti-License
 
-MIT — *Maybe In Time*
+[ANTI-LICENSE](LICENSE) — This is not a license. This is an invitation.
+
+Take it. Use it. Break it. Fix it. Sell it. Give it away.
+
+If you need permission, you're thinking too much.
 
 ---
 
